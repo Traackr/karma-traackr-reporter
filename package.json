@@ -1,0 +1,22 @@
+{
+  "name": "karma-traackr-reporter",
+  "description": "A browser test reporter for Karma developed by the team at Traackr",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Michael Pelletier <michael@mpelletier.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Traackr/karma-traackr-reporter.git"
+  },
+  "keywords": [
+    "karma-reporter"
+  ],
+  "bugs": {
+    "url": "https://github.com/Traackr/karma-traackr-reporter/issues"
+  },
+  "homepage": "https://github.com/Traackr/karma-traackr-reporter",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
